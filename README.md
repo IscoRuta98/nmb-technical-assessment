@@ -27,4 +27,4 @@ pip install requirements.txt
 ```
 
 3. Workbook
-- The `workbook.ipynb` is Jupyter notebook with the code and insights that I have conducted.
+- The `workbook.ipynb` is a Jupyter notebook with the code and insights that I have conducted.
